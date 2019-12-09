@@ -1,0 +1,88 @@
+{
+    "title": "回车情感云开发文档",
+    "author": "Entertech",
+    "description": "回车情感云计算平台以脑电为基础，结合心率、皮肤电导率等多维传感器，实现对人体健康的监测以及对专注度、疲劳度、情绪情感等状态的识别。",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [
+        "-sharing",
+        "-lunr", 
+        "-search", 
+        "-fontsettings",
+        "theme-fexa",
+        "anchors",
+        "image-captions",
+        "back-to-top-button",
+        "cuav-chapters",
+        "code",
+        "search-pro",
+        "advanced-emoji",
+        "emphasize",
+        "splitter",
+        "tbfed-pagefooter",
+        "klipse",
+        "flexible-alerts",
+        "auto-scroll-table",
+        "lightbox",
+        "image-div"
+    ],
+    "variables": {
+        "themeFexa":{
+            "nav":[
+                {
+                    "url":"https://www.entertech.cn",
+                    "target":"_blank",
+                    "name": "回车官网"
+                },
+                {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-Demo-Android",
+                    "target":"_blank",
+                    "name": "Android API Demo"
+                },
+                {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-BLE-iOS-SDK",
+                    "target":"_blank",
+                    "name": "蓝牙 iOS SDK"
+                },
+                {
+                    "url":"https://github.com/Entertech/Enter-Biomodule-BLE-Android-SDK",
+                    "target":"_blank",
+                    "name": "蓝牙 Android SDK"
+                }
+            ]
+        }
+    },
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": true
+        },
+        "flexible-alerts": {
+            "style": "flat",
+            "note": {
+                "label": "注意"
+            },
+            "tip": {
+                "label": "提示"
+            },
+            "warning": {
+                "label": "警告"
+            },
+            "danger": {
+                "label": "危险"
+            }
+        },
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./logo.png",
+            "favicon": "./favicon.png"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"© Entertech 2019",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}

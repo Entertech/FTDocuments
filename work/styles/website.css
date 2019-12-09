@@ -1,0 +1,32 @@
+.markdown-section blockquote, .markdown-section code, .markdown-section figure, .markdown-section img, .markdown-section pre, .markdown-section table, .markdown-section tr {
+    page-break-inside: avoid;
+    text-align: center;
+}
+
+.markdown-section img {
+	text-align: center;
+	width: 50%; 
+    padding: 15px 0px;
+}
+
+.header-inner .logo {margin: 5px 0 0 0;}
+
+.header-inner #book-search-input {background: #f8b62e;}
+.book-summary ul.summary li.active {border-right: 3px solid #f8b62e;}
+.book-summary ul.summary li.active>a {color: #f8b62e;}
+
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
+    text-align: left;
+}
+
+@media screen and (max-width:768px){
+	.header-inner .logo {width: 38px; height: 35px; background-size:90px 38px; margin: 0px 0px 0px -5px;}
+	.header-inner .title {font-size: 20px; margin-left: 10px; line-height: 38px;}
+	.header-inner #book-search-input {margin: 5px 0px;}
+	.header-inner {height: 100px;}
+	.header-inner .header-nav {display: none;}
+	.book-header {display: none;}
+	.markdown-section img {width: 100%;}
+	.page-inner {padding: 20px 20px 40px 40px;}
+	.book-anchor {display: none;}
+}
