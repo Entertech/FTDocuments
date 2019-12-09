@@ -1,10 +1,8 @@
-# 回车情感云计算平台开发文档
+# 心流帮助文档
 
 ## 简介
-介绍情感云平台架构、平台能力和平台的协议及接入方式。
+介绍心流冥想头环的使用方式和注意事项。冥想的相关名词介绍。
 
 ## 文档地址
 
-https://www.affectivecloud.cn
-
-https://www.affectivecloud.com
+https://docs.myflowtime.cn
