@@ -9,19 +9,24 @@ RUN sed -i s@/deb.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
 
 WORKDIR /docs
 
-RUN git clone https://github.com/Entertech/FTDocuments.git \
-&& cd FTDocuments \
-&& git checkout international
+ARG REPO
+ARG BRANCH
 
-WORKDIR /docs/FTDocuments/MeetFlowtime 
+RUN echo "2022-09-05 19:30:00" \
+&& git clone $REPO Documents \
+&& cd Documents \
+&& git checkout $BRANCH
+
+WORKDIR /docs/Documents/source 
 RUN yarn add @docusaurus/theme-search-algolia \
-&& yarn add @docusaurus/plugin-sitemap \
-&& yarn install \
+&& yarn add @docusaurus/plugin-sitemap
+
+RUN yarn install \
 && yarn build
 
 RUN git config --global user.email "you@example.com" \
 && git config --global user.name "Your Name" \
-&& cd .. && git add MeetFlowtime/package.json MeetFlowtime/yarn.lock \
+&& cd .. && git add source/package.json source/yarn.lock \
 && git commit -m "nothing"
 
 WORKDIR /docs
@@ -29,4 +34,4 @@ WORKDIR /docs
 COPY ./start.sh .
 COPY ./update.sh .
 
-CMD ./start.sh
+CMD ./start.sh $START_BRANCH
