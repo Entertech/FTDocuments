@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  meetflowtime-docs:
+    image: 671277380155.dkr.ecr.us-west-2.amazonaws.com/entertech/meetflowtime-docs-international:0.1.0
+    build:
+      context: .
