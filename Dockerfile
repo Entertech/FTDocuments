@@ -1,4 +1,4 @@
-FROM node:16.2-slim
+FROM node:16-slim
 
 RUN sed -i s@/deb.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
 && sed -i s@/security.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
@@ -12,7 +12,7 @@ WORKDIR /docs
 ARG REPO
 ARG BRANCH
 
-RUN echo "2022-09-05 19:30:00" \
+RUN echo "2022-09-06 17:50:00" \
 && git clone $REPO Documents \
 && cd Documents \
 && git checkout $BRANCH
