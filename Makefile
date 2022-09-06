@@ -3,7 +3,7 @@
 export VERSION = 0.1.0
 
 ifeq (${REGION}, cn)
-	export REGISTRY = registry.cn-shanghai.aliyuncs.com/affectivecloud
+	export REGISTRY = registry.cn-shanghai.aliyuncs.com/flowtime
 	export REPO = https://gitee.com/lockeysama/FTDocuments.git
 	export BRANCH = master
 else
@@ -11,7 +11,7 @@ else
 		$(error "Error: ENV(${ENV}) undefined.")
 	endif
 	
-	export REGISTRY = 671277380155.dkr.ecr.us-west-2.amazonaws.com/entertech
+	export REGISTRY = 671277380155.dkr.ecr.us-west-2.amazonaws.com/flowtime
 	export REPO = https://github.com/Entertech/FTDocuments.git
 	export BRANCH = international
 endif
