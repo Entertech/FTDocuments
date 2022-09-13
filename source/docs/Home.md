@@ -21,7 +21,6 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [What is Heart Rate?](/Glossary/What—is-Heart-Rate)
 
 
-
 ### Know more about the reporters
 * [How to uderstand Breath Coherence Graph]( /Know_more_about_the_reporters/How-to-understand-Breath-Coherence-Graph)
 * [How to uderstand the Pressure graph](/Know_more_about_the_reporters/How-to-understand-the-Pressure-graph)
