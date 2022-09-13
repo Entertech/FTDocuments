@@ -1,14 +1,15 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'MeetFlowtime',
-    tagline: 'MeetFlowtime Headset boost brain power in 1 minute.',
+    title: 'Flowtime Help Center',
+    tagline: 'Flowtime Help Center',
     url: 'https://help.meetflowtime.com',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'Entertech', // Usually your GitHub org/user name.
+    organizationName: 'Flowtime', // Usually your GitHub org/user name.
     projectName: 'meetflowtime', // Usually your repo name.
+    
     themeConfig: {
         algolia: {
             appId: '6GQW4OO0X8',
@@ -16,9 +17,9 @@ module.exports = {
             indexName: "MeetFlowtime-international",
         },
         navbar: {
-            title: 'Meet Flowtime',
+            title: 'Flowtime Help Center',
             logo: {
-                alt: 'Meet Flowtime',
+                alt: 'Flowtime',
                 src: 'img/logo.svg',
             },
             items: [
@@ -29,56 +30,56 @@ module.exports = {
                 //   label: 'Docs',
                 // },
                 // {to: '/blog', label: 'Blog', position: 'left'},
-                // {
-                //   href: 'https://github.com/Entertech/tDCS-Documents/tree/master/tDCS',
-                //   label: 'GitHub',
-                //   position: 'right',
-                // },
+                {
+                  href: 'https://www.meetflowtime.com/blogs/meditation-guide',
+                  label: 'Blog',
+                  position: 'right',
+                },
+                {
+                    href: 'https://www.meetflowtime.com/',
+                    label: 'Products',
+                    position: 'right',
+                },
             ],
         },
         footer: {
             style: 'light',
+            // logo: {
+            //     alt: 'meetFlowtime',
+            //     // This default includes a positive & negative version, allowing for
+            //     // appropriate use depending on your site's style.
+            //     src: '/img/logo.svg',
+            //     href: 'https://www.meetflowtime.com',
+            // },
             links: [
-                //   {
-                //     items: [
-                //       {
-                //         label: 'Flowtime tDCS官网',
-                //         href: 'https://www.xzytdcs.com',
-                //       }
-                //     ],
-                //   }
-                //     {
-                //       title: 'Community',
-                //       items: [
-                //         {
-                //           label: 'Stack Overflow',
-                //           href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                //         },
-                //         {
-                //           label: 'Discord',
-                //           href: 'https://discordapp.com/invite/docusaurus',
-                //         },
-                //         {
-                //           label: 'Twitter',
-                //           href: 'https://twitter.com/docusaurus',
-                //         },
-                //       ],
-                //     },
-                //     {
-                //       title: 'More',
-                //       items: [
-                //         {
-                //           label: 'Blog',
-                //           to: '/blog',
-                //         },
-                //         {
-                //           label: 'GitHub',
-                //           href: 'https://github.com/facebook/docusaurus',
-                //         },
-                //       ],
-                //     },
+                    {
+                      title: 'Products',
+                      items: [
+                        {
+                          label: 'Flowtime Headband',
+                          href: 'https://www.meetflowtime.com/products/flowtime-smart-cushionstackoverflow.com/questions/tagged/docusaurus',
+                        },
+                        {
+                          label: 'Flowtime Cushion',
+                          href: 'https://www.meetflowtime.com/products/flowtime-biosensing-meditation-headband',
+                        },
+                      ],
+                    },
+                    {
+                      title: 'More',
+                      items: [
+                        {
+                          label: 'Blog',
+                          to: 'https://www.meetflowtime.com/blogs/meditation-guide',
+                        },
+                        {
+                          label: 'The app',
+                          href: 'https://www.meetflowtime.com/pages/the-app',
+                        },
+                      ],
+                    },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Entertech Inc. All rights reserved.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Flowtime. All rights reserved.`,
         },
     },
     presets: [
