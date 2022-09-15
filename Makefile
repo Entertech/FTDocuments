@@ -3,7 +3,7 @@
 export VERSION = 0.1.0
 
 ifeq (${REGION}, cn)
-	export REGISTRY = registry.cn-shanghai.aliyuncs.com/flowtime
+	export REGISTRY = registry.cn-shanghai.aliyuncs.com/heartflow
 	export REPO = https://gitee.com/lockeysama/FTDocuments.git
 	export BRANCH = master
 else
