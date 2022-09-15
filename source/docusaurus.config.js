@@ -12,15 +12,15 @@ module.exports = {
 
     themeConfig: {
         algolia: {
-            appId: '6GQW4OO0X8',
-            apiKey: "59f85217b5d1388482cb32c4de702958",
-            indexName: "MeetFlowtime-international",
+            appId: 'OIOJXZBCAQ',
+            apiKey: "fb4428d71c2a260eb4722fb128f386cb",
+            indexName: "Flowtime",
         },
         navbar: {
             title: '心流-帮助中心',
             logo: {
                 alt: 'Flowtime',
-                src: 'img/logo.svg',
+                src: 'img/logo.png',
             },
             items: [
                 // {
