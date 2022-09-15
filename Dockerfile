@@ -1,15 +1,37 @@
-FROM node:12.7.0
+FROM node:16-slim
 
-EXPOSE 4000
+RUN sed -i s@/deb.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
+&& sed -i s@/security.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
+&& apt update \
+&& apt install git -y \
+&& apt clean \
+&& yarn config set registry https://registry.npmmirror.com --global
 
-WORKDIR /build/work
+WORKDIR /docs
 
-RUN npm -registry https://registry.npm.taobao.org install gitbook -g \
-&& npm -registry https://registry.npm.taobao.org install gitbook-cli -g \
-&& gitbook init
+ARG REPO
+ARG BRANCH
 
-COPY work .
+RUN echo "2022-09-06 17:50:00" \
+&& git clone $REPO Documents \
+&& cd Documents \
+&& git checkout $BRANCH
 
-RUN gitbook install
+WORKDIR /docs/Documents/source 
+RUN yarn add @docusaurus/theme-search-algolia \
+&& yarn add @docusaurus/plugin-sitemap
 
-CMD gitbook serve
+RUN yarn install \
+&& yarn build
+
+RUN git config --global user.email "you@example.com" \
+&& git config --global user.name "Your Name" \
+&& cd .. && git add source/package.json source/yarn.lock \
+&& git commit -m "nothing"
+
+WORKDIR /docs
+
+COPY ./start.sh .
+COPY ./update.sh .
+
+CMD ./start.sh $START_BRANCH
