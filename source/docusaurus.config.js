@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: '心流-帮助中心',
-    tagline: '心流-帮助中心',
+    title: 'FLOWTIME 心流时刻 | 帮助中心',
+    tagline: 'FLOWTIME 心流时刻 | 帮助中心',
     url: 'https://docs.myflowtime.cn',
     baseUrl: '/',
     onBrokenLinks: 'warn',
@@ -17,9 +17,9 @@ module.exports = {
             indexName: "Flowtime",
         },
         navbar: {
-            title: '心流-帮助中心',
+            title: 'FLOWTIME 心流时刻 | 帮助中心',
             logo: {
-                alt: 'Flowtime',
+                alt: 'FLOWTIME 心流时刻',
                 src: 'img/logo.png',
             },
             items: [
@@ -79,7 +79,7 @@ module.exports = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Flowtime. All rights reserved.`,
+            copyright: `Copyright © ${new Date().getFullYear()} FLOWTIME 心流时刻. All rights reserved.`,
         },
     },
     presets: [
