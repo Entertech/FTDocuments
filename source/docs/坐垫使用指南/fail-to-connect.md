@@ -1,7 +1,7 @@
 ---
 slug: /cushion-instructions/fail-to-connect
 sidebar_label: 连接问题
-sidebar_position: 7
+sidebar_position: 4
 hide_title: true
 ---
 

@@ -6,6 +6,7 @@ hide_title: true
 ---
 
 ## 坐垫使用指南
+[使用指南](/cushion-instructions/guide)
 
 [剩余电量和充电指南](/cushion-instructions/battery-charge)
 

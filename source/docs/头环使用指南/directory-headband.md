@@ -6,6 +6,7 @@ hide_title: true
 ---
 
 ## 头环使用指南
+[使用指南](/headband-instructions/guide)
 
 [如何与朋友/家人共用一个头环](/headband-instructions/share-a-headband)
 
