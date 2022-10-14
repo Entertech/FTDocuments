@@ -8,7 +8,7 @@ module.exports = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'Flowtime', // Usually your GitHub org/user name.
-    projectName: 'meetflowtime', // Usually your repo name.
+    projectName: 'FLOWTIME 心流时刻', // Usually your repo name.
 
     themeConfig: {
         algolia: {
@@ -31,13 +31,8 @@ module.exports = {
                 // },
                 // {to: '/blog', label: 'Blog', position: 'left'},
                 {
-                    href: 'https://www.meetflowtime.com/blogs/meditation-guide',
-                    label: 'Blog',
-                    position: 'right',
-                },
-                {
-                    href: 'https://www.meetflowtime.com/',
-                    label: 'Products',
+                    href: 'https://www.myflowtime.com/',
+                    label: '官网',
                     position: 'right',
                 },
             ],
@@ -53,28 +48,15 @@ module.exports = {
             // },
             links: [
                 {
-                    title: 'Products',
+                    title: '产品',
                     items: [
                         {
-                            label: 'Flowtime Headband',
-                            href: 'https://www.meetflowtime.com/products/flowtime-smart-cushionstackoverflow.com/questions/tagged/docusaurus',
+                            label: 'FLOWTIME 冥想头环',
+                            href: 'https://www.myflowtime.cn/product/headband.html',
                         },
                         {
-                            label: 'Flowtime Cushion',
-                            href: 'https://www.meetflowtime.com/products/flowtime-biosensing-meditation-headband',
-                        },
-                    ],
-                },
-                {
-                    title: 'More',
-                    items: [
-                        {
-                            label: 'Blog',
-                            to: 'https://www.meetflowtime.com/blogs/meditation-guide',
-                        },
-                        {
-                            label: 'The app',
-                            href: 'https://www.meetflowtime.com/pages/the-app',
+                            label: 'FLOWITME 冥想坐垫',
+                            href: 'https://www.myflowtime.cn/product/cushion.html',
                         },
                     ],
                 },
