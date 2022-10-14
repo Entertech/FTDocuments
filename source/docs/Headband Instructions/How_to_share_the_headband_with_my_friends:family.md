@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/How-to-share-the-headband-with-my-friends/family
+slug: /Headband-Instructions/How-to-share-the-headband-with-my-friends/family
 sidebar_label: Share the headband with my friends/family
-sidebar_position: 5
+sidebar_position: 4
 hide_title: true
 ---
 

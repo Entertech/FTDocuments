@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/There-is-no-real-time-biodata-displayed
+slug: /Headband-Instructions/There-is-no-real-time-biodata-displayed
 sidebar_label: No real-time biodata
-sidebar_position: 7
+sidebar_position: 2
 hide_title: true
 ---
 

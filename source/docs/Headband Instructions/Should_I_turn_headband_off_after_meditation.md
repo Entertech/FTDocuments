@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/Should-I-turn-headband-off-after-meditation
+slug: /Headband-Instructions/Should-I-turn-headband-off-after-meditation
 sidebar_label: Turn headband off
-sidebar_position: 8
+sidebar_position: 3
 hide_title: true
 ---
 

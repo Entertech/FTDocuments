@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/How-to-record-a-session-with-other-meditation-apps
+slug: /App-Instructions/How-to-record-a-session-with-other-meditation-apps
 sidebar_label: Record with other meditation apps
-sidebar_position: 4
+sidebar_position: 3
 hide_title: true
 ---
 

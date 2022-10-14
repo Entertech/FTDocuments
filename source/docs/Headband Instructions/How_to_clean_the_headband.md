@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/How-to-clean-the-headband
+slug: /Headband-Instructions/How-to-clean-the-headband
 sidebar_label: Clean the headband
-sidebar_position: 9
+sidebar_position: 5
 hide_title: true
 ---
 

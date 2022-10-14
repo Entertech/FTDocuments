@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/I-have-problems-in-connecting-the-headband-with-the-app
+slug: /Headband-Instructions/I-have-problems-in-connecting-the-headband-with-the-app
 sidebar_label: Connecting Problems
-sidebar_position: 10
+sidebar_position: 1
 hide_title: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: /Instructions/Where-to-Download-Flowtime-App
+slug: /App-Instructions/Where-to-Download-Flowtime-App
 sidebar_label: Download APP
 sidebar_position: 1
 hide_title: true

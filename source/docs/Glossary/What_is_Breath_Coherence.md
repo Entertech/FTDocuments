@@ -1,5 +1,5 @@
 ---
-slug: /Glossary/What—is-Breath-Coherence
+slug: /Glossary/What-is-Breath-Coherence
 sidebar_label: Breath Coherence
 sidebar_position: 1
 hide_title: true

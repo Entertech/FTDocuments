@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/A-quick-guide-to-using-the-report-exported
+slug: /App-Instructions/A-quick-guide-to-using-the-report-exported
 sidebar_label: Export report
-sidebar_position: 2
+sidebar_position: 4
 hide_title: true
 ---
 

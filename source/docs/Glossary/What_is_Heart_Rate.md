@@ -1,5 +1,5 @@
 ---
-slug: /Glossary/What—is-Heart-Rate
+slug: /Glossary/What-is-Heart-Rate
 sidebar_label: Heart Rate
 sidebar_position: 8
 hide_title: true

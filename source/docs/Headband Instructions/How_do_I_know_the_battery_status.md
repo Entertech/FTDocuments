@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/How-do-I-know-the-battery-status
+slug: /Headband-Instructions/How-do-I-know-the-battery-status
 sidebar_label: Battery status
-sidebar_position: 6
+sidebar_position: 7
 hide_title: true
 ---
 
@@ -11,7 +11,7 @@ hide_title: true
 
 ![From the indicator](ImagesH/Fromtheindicator.jpg)
 
-In the app
+#### In the app
 
 ![In the app](ImagesH/In_the_app.jpg)
 

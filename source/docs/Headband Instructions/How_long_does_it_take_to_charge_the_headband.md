@@ -1,7 +1,7 @@
 ---
-slug: /Instructions/How-long-does-it-take-to-charge-the-headband
+slug: /Headband-Instructions/How-long-does-it-take-to-charge-the-headband
 sidebar_label: Charge the headband
-sidebar_position: 11
+sidebar_position: 6
 hide_title: true
 ---
 
