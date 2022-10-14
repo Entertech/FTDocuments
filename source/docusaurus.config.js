@@ -61,7 +61,7 @@ module.exports = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} FLOWTIME 心流时刻. All rights reserved.`,
+            copyright: `Copyright © ${new Date().getFullYear()} FLOWTIME 心流时刻. All rights reserved. 浙ICP备14039196号-8`,
         },
     },
     presets: [
