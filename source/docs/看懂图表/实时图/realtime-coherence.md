@@ -1,6 +1,6 @@
 ---
 slug: /realtime/realtime-coherence
-side_label: 实时呼吸和谐
+sidebar_label: 实时呼吸和谐
 sidebar_position: 4
 hide_title: true
 ---
