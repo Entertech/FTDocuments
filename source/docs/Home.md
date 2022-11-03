@@ -11,31 +11,40 @@ If you have any questions about Flowtime, please look them up here. If your prob
 
 ### Glossary
 
-* [What is Breath Coherence.](/Glossary/What-is-Breath-Coherence) 
+* [What is Breath Coherence?](/Glossary/What-is-Breath-Coherence) 
 * [What is Attention?](/Glossary/What-is-Attention)
 * [What is Brainwave Rhythms?](/Glossary/What-is-Brainwave-Rhythms)
 * [What is Relaxation?](/Glossary/What-is-Relaxation)
 * [What is Heart Rate Variability?](/Glossary/What-is-Heart-Rate-Variability)
 * [What is Brainwave(EEG)?](/Glossary/What-is-Brainwave)
-* [What is Pressure?](/Glossary/What-is-Pressure)
+* [What is Stress?](/Glossary/What-is-Stress)
 * [What is Heart Rate?](/Glossary/What-is-Heart-Rate)
 
 
 ### Know more about the reporters
-* [How to uderstand Breath Coherence Graph]( /Know_more_about_the_reporters/How-to-understand-Breath-Coherence-Graph)
-* [How to uderstand the Pressure graph](/Know_more_about_the_reporters/How-to-understand-the-Pressure-graph)
-* [How to understand the "Changes during Meditation"? ](/Know_more_about_the_reporters/How-to-understand-the-Changes-during-Meditation-graph)
-* [How to understand the HRV graph?](/Know_more_about_the_reporters/How-to-understand-the-HRV-graph)
-* [How to understand the Brainwave Rhythms graph?](/Know_more_about_the_reporters/How-to-understand-Brainwave-Rhythms-graph)
-* [How to understand Attention & Relaxation graph? ](/Know_more_about_the_reporters/How-to-understand-Attention&Relaxation-graph)
-* [How to understand the Last 7 Times graph?](/Know_more_about_the_reporters/How-to-understand-the-Last-7-Times-graph)
-* [How to understand the Relaxation graph?](/Know_more_about_the_reporters/How-to-understand-the-Relaxation-graph)
-* [How to understand Attention graph? ](/Know_more_about_the_reporters/How-to-understand-the-Attention-graph)
+#### How to Read Realtime Bio-data
+* [Realtime Brainwave](/realtime/realtime-brainwave)
+* [Realtime Brainwave Rhythm](/realtime/realtime-brainwave-rhythms)
+* [Realtime Respiration](/realtime/realtime-respiration)
+* [Realtime Heart Rate](/realtime/realtime-heart-rate)
+* [Realtime Coherence](/realtime/realtime-coherence)
+* [Realtime Attention](/realtime/realtime-attention)
+* [Realtime Relaxation](/realtime/realtime-relaxation)
+#### How to Read Bio-data Trend
+* [Brainwave Rhythm Trend](/trend/brainwave-rhythm-trend)
+* [Heart Rate Trend](/trend/heart-rate-trend)
+* [HRV Trend](/trend/HRV-trend)
+* [Attention Trend](/trend/attention-trend)
+* [Relaxation Trend](/trend/relaxation-trend)
+* [Stress Trend](/trend/stress-trend)
+* [Respiratory Rate Trend](/trend/respiratory-rate-trend)
+* [Last 7 Times](/trend/last-7-times)
+* [Long-term Trend](/trend/long-term-trend)
 
 
 ### Headband Instructions
 * [How to share the headband with my friends/family?](/Headband-Instructions/How-to-share-the-headband-with-my-friends/family)
-* [How do I knnow the battery status?](/Headband-Instructions/How-do-I-know-the-battery-status)
+* [How do I know the battery status?](/Headband-Instructions/How-do-I-know-the-battery-status)
 * [There is no real-time biodata displayed.](/Headband-Instructions/There-is-no-real-time-biodata-displayed)
 * [Should I turn headband off after meditation?](/Headband-Instructions/Should-I-turn-headband-off-after-meditation)
 * [How to clean the headband?](/Headband-Instructions/How-to-clean-the-headband)

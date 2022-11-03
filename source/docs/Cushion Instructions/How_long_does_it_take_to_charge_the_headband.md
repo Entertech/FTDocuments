@@ -7,7 +7,7 @@ hide_title: true
 
 ## How long does it take to charge the cushion?
 
-- - Attach the included magnetic charging cable to the control box through the opening under the carrying handle. 
+- Attach the included magnetic charging cable to the control box through the opening under the carrying handle. 
 - Connect the other end of the charging cable to the power adapter. A regular mobile phone power adapter works fine.
 - The indicator light flashes red when charging and takes approximately 2 hours to charge fully.
 - When it's fully charged, it can be used continuously for about 2000 hours.

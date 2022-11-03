@@ -47,7 +47,7 @@ App Version: 3.3.0
 
 
 * [What is Heart Rate Variability?]
-- HRV value calculation method changed. [Learn more](/Glossary/What-is-Heart-Rate-Variability(HRV)).
+- HRV value calculation method changed. [Learn more](/Glossary/What-is-Heart-Rate-Variability).
 
 -  Changed the time interval of the x-axis of the HRV report graph from 0.2s to 0.6s.
 ---
@@ -67,7 +67,7 @@ App Version:  2.0.0
 
   - Changed the time interval of the x-axis of the Heart Rate report graph from 0.2s to 0.6s. 
 
-  - Changed the time interval of the x-axis of  Attention & Relaxation, Pressure report graph from 0.8s to 0.6s.
+  - Changed the time interval of the x-axis of  Attention & Relaxation, stress report graph from 0.8s to 0.6s.
 ---
 Date: 12/07/2020
 
