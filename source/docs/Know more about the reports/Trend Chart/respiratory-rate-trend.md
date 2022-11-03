@@ -1,7 +1,7 @@
 ---
 slug: /trend/respiratory-rate-trend
 sidebar_label: Respiratory Rate Trend
-sidebar_position: 7
+sidebar_position: 8
 hide_title: true
 ---
 
