@@ -9,10 +9,14 @@ hide_title: true
 
 #### From the indicator
 
-| Working Status | Battery Status | Indicator |
-|---|---|---|
-| Charging | Low battery | Solid Red |
-|  | Charging | Flashing red |
-|  | Fully Charged | Light off |
-| In Use | Normal | Solid Blue |
+|  Indicator | Battery Status |
+|---|---|
+| Blue light | Normal |
+| Red light | Low battery  (less than 20%) |
+| Blue breathing light | Charging |
+| Light off | Fully charged |
 
+#### In the app
+
+![In the app](ImagesX/20221104-193151.jpg)
+![In the app](ImagesX/20221104-193003.jpg)

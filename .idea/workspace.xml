@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85979266-c476-4457-9206-05c037a70938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Cushion Instructions/How_do_I_know_the_battery_status.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Cushion Instructions/How_do_I_know_the_battery_status.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Headband Instructions/How_do_I_know_the_battery_status.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Headband Instructions/How_do_I_know_the_battery_status.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-attention.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-attention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-brainwave-rhythm.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-brainwave-rhythm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-brainwave.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-brainwave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-coherence.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-coherence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-heart-rate.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-heart-rate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-relaxation.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-relaxation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-respiration.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-respiration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/21.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/21.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/23.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/23.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/24.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/24.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/25.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/25.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/27.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/27.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/28.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/28.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/29.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/29.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/30.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/30.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/31.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/31.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/6.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/figma4.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/ImagesL/figma4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/brainwave-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/brainwave-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +74,7 @@
       <workItem from="1667463070951" duration="2048000" />
       <workItem from="1667467949071" duration="634000" />
       <workItem from="1667468964981" duration="857000" />
+      <workItem from="1667559989269" duration="3498000" />
     </task>
     <servers />
   </component>

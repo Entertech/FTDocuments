@@ -9,7 +9,7 @@ hide_title: true
 
 Realtime brain graph shows left forehead (Fp1) and right forehead (Fp2) brainwaves over 5 seconds.
 
-![Realtime Brainwave](ImagesK/1.PNG)
+![Realtime Brainwave](ImagesK/brainwave.png)
 
 Brainwaves appear as a straight line when the device is not worn or when no valid brainwaves are detected. After wearing the device, signal acquisition requires an initialization time. During this period, the noise is relatively large, which may cause the brainwave display to be unstable. After the initialization is completed, stable brainwaves will be displayed. The duration of initialization is related to the skin condition, generally about 30 seconds to 1 minute, and it may take longer for dry skin.
 

@@ -10,6 +10,7 @@ hide_title: true
 * [Brainwave Rhythm Trend](/trend/brainwave-rhythm-trend)
 * [Heart Rate Trend](/trend/heart-rate-trend)
 * [HRV Trend](/trend/HRV-trend)
+* [Coherence Trend](/trend/coherence-trend)
 * [Attention Trend](/trend/attention-trend)
 * [Relaxation Trend](/trend/relaxation-trend)
 * [Stress Trend](/trend/stress-trend)

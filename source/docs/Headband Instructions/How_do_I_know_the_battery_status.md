@@ -9,9 +9,15 @@ hide_title: true
 
 #### From the indicator
 
-![From the indicator](ImagesH/Fromtheindicator.jpg)
+|  Indicator | Battery Status |
+|---|---|
+| Blue light | Normal |
+| Red light | Low battery  (less than 20%) |
+| Red breathing light | Charging |
+| Green light | Fully charged |
 
 #### In the app
 
-![In the app](ImagesH/In_the_app.jpg)
+![In the app](ImagesH/20221104-193053.jpg)
+![In the app](ImagesH/20221104-193058.jpg)
 

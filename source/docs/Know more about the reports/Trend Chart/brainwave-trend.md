@@ -34,3 +34,9 @@ The Brainwave Rhythm Power Trend Graph reflects the change of the absolute value
 For example, you can see from the following figure that during the session, the power of all rhythms in the first half rose slowly. And then the power of the gamma wave and beta wave in the second half increased significantly. At the same time, the alpha, theta, and delta waves decreased slightly,  indicating the user was more focused and arousal in the second half.
 
 ![Brainwave Rhythm Power Trend](ImagesL/7.png)
+
+## Brainwave-rhythm Proportion
+
+The trend graph of the proportion of brainwave rhythms reflects the change of the proportional relationship between the five brainwave rhythms over time. The horizontal axis is time, and the vertical axis is the proportion of the five brainwave rhythms. The vertical width of each color block in the figure represents the proportion of this brainwave rhythm. The wider the color block, the higher the proportion of this brainwave rhythm.
+
+![Brainwave-rhythm Proportion](ImagesL/20221104-195743.jpg)
