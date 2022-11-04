@@ -27,9 +27,8 @@ Sometimes the heart rate fluctuates greatly in a short period of time due to exe
 ![Local peaks in HRV curve due to interference](ImagesL/16.png)
 
 ### Month View
-
 The month view reflects the trend of the HRV average level in the last 1 month, and the abscissa is the date. The height of each bar in the bar graph represents the HRV average for all sessions that day. A short-term trend in HRV levels can be seen from the month view.
-
+![graph)](ImagesL/hrv-m.png)
 ### Year View
-
 The year view reflects the trend of HRV average level in the last 1 year, and the abscissa is the month. The height of each bar in the histogram represents the average of the daily HRV averages for the month. Long-term trends in HRV levels can be seen from the year view.
+![graph)](ImagesL/hrv-m-1.png)

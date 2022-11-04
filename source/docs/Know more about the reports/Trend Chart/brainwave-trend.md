@@ -18,14 +18,20 @@ For example, you can see from the figure below that the proportion of gamma wave
 ![The trend of brainwave rhythm proportion in the typical meditation state](ImagesL/6.PNG)
 
 ### Month View
+
 The Month view reflects the proportion trend of the five brain wave rhythms in the last month. The horizontal axis is the date.
 
 Tap any point in the graph, and you'll see the average percentage on that day. If you do more than one session a day, the number you see is the average percentage out of all sessions you have done that day.
 
+![graph](ImagesL/Brainwave-Rhythm-m.png)
+
 ### Year View
+
 The year view reflects the changing trend of the brainwave rhythm proportion in the last year, and the horizontal axis is the month.
 
 Tap any point in the graph, and you'll see the average percentage of that month. The number you see is the average of all sessions you have done in that month.
+
+![graph](ImagesL/Brainwave-Rhythm-y.png)
 
 ## Brainwave Rhythm Power Trend
 

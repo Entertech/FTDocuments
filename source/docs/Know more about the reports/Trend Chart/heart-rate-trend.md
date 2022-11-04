@@ -25,9 +25,9 @@ The current session view reflects the trend of real-time heart rate during the s
 
 
 ### Month View
-
 The month view reflects the trend of the average heart rate in the last 1 month, and the abscissa is the date. Each point in the line graph represents the average heart rate of all sessions that day, and the bar graph in the background represents the range of heart rate variation for all experiences that day. Short-term trends in heart rate levels can be seen from the month view.
+![graph)](ImagesL/heart-m.png)
 
 ### Year View
-
 The year view reflects the trend of the average heart rate in the last 1 year, and the abscissa is the month. Each point in the line graph represents the average level of the daily average heart rate for the month, and the bar graph in the background represents the range of variation in the average daily heart rate for the month. The long-term trend in heart rate levels can be seen from the year view.
+![graph)](ImagesL/heart-y.png)
