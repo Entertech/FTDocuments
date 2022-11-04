@@ -1,6 +1,6 @@
 ---
 slug: /trend/last-7-times
-sidebar_label: 最近七次趋势图
+sidebar_label: 最近七次
 sidebar_position: 8
 hide_title: true
 ---

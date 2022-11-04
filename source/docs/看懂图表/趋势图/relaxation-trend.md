@@ -1,6 +1,6 @@
 ---
 slug: /trend/relaxation-trend
-sidebar_label: 放松度变化趋势图
+sidebar_label: 放松度
 sidebar_position: 5
 hide_title: true
 ---

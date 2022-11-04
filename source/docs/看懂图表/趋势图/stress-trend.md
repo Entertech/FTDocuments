@@ -1,6 +1,6 @@
 ---
 slug: /trend/stress-trend
-sidebar_label: 压力水平变化趋势图
+sidebar_label: 压力
 sidebar_position: 7
 hide_title: true
 ---

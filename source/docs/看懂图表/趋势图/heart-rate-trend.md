@@ -1,6 +1,6 @@
 ---
 slug: /trend/heart-rate-trend
-sidebar_label: 心率变化趋势图
+sidebar_label: 心率
 sidebar_position: 2
 hide_title: true
 ---

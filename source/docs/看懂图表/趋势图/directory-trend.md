@@ -7,15 +7,17 @@ hide_title: true
 
 ## 趋势图
 
-[脑电波变化趋势图](/trend/brainwave-trend)
+[脑电波](/trend/brainwave-trend)
 
-[心率变化趋势图](/trend/heart-rate-trend)
+[心率](/trend/heart-rate-trend)
 
-[心率变异性（HRV）变化趋势图](/trend/HRV-trend)
+[心率变异性（HRV）](/trend/HRV-trend)
 
 [注意力](/trend/attention-trend)
 
 [放松度](/trend/relaxation-trend)
+
+[和谐时间](/trend/coherence-time)
 
 [压力水平](/trend/stress-trend)
 

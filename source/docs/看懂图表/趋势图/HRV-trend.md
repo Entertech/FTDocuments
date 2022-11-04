@@ -1,6 +1,6 @@
 ---
 slug: /trend/HRV-trend
-sidebar_label: 心率变异性（HRV）的变化曲线图
+sidebar_label: 心率变异性（HRV）
 sidebar_position: 3
 hide_title: true
 ---

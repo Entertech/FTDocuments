@@ -1,6 +1,6 @@
 ---
 slug: /trend/respiratory-rate-trend
-sidebar_label: 呼吸率变化曲线图
+sidebar_label: 呼吸率
 sidebar_position: 7
 hide_title: true
 ---

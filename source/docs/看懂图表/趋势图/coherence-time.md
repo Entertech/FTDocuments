@@ -1,12 +1,11 @@
 ---
 slug: /trend/coherence-time
-sidebar_label: 和谐时间统计图
+sidebar_label: 和谐时间
 sidebar_position: 10
 hide_title: true
 ---
 
-### 和谐时间统计图
-和谐时间统计图记录了和谐状态累计时长的变化趋势。
+### 和谐时间趋势
 
 #### 当次体验视图
 
