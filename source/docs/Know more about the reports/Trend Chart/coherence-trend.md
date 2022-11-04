@@ -9,7 +9,7 @@ hide_title: true
 
 The Coherence time statistics chart records the trend of the accumulated duration of the coherent state.
 
-![graph](Imagesl/32.png)
+![graph](ImagesL/32.png)
 Heart rate curve reflects coherence (heart rate changes disorderly in the gray part, and a coherent state is achieved through regular deep breathing in the green part)
 
 ### Session View
