@@ -6,6 +6,12 @@ hide_title: true
 ---
 
 ## Coherence Time Trend
+
+The Coherence time statistics chart records the trend of the accumulated duration of the coherent state.
+
+![graph](ImagesL/32.png)
+Heart rate curve reflects coherence (heart rate changes disorderly in the gray part, and a coherent state is achieved through regular deep breathing in the green part)
+
 ### Session View
 
 The session view records the time period of the coherent state during the session. The upper left corner shows the total time of the coherent state of the current experience. The graph is the real-time heart rate trend of the session, the abscissa is the time, and the ordinate is the heart rate. The curve is the real-time heart rate curve, the color of which shows the coherent state. Green curve means coherent, which presents a regular periodicity, and gray means non-coherent .
