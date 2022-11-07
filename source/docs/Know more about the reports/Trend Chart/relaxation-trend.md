@@ -24,9 +24,11 @@ The session view reflects the trend of real-time relaxation during the session. 
 ![Changes in relaxation in attention-based meditation (lower levels of relaxation)](ImagesL/29.PNG)
 
 ### Month view
-
 The month view reflects the trend of the average level of relaxation in the last 1 month, and the abscissa is the date. The height of each bar in the bar graph represents the average relaxation of all experiences that day. A short-term trend in relaxation levels can be seen from the month view.
 
-### Year View
+![graph)](ImagesL/relax-m.png)
 
+### Year View
 The year view reflects the trend of the average level of relaxation in the last 1 year, with the abscissa as the month. The height of each bar in the histogram represents the average of the daily relaxation averages for the month. The long-term trend in relaxation levels can be seen from the year view.
+
+![graph)](ImagesL/relax-m-1.png)

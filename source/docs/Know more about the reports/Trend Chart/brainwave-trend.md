@@ -18,14 +18,20 @@ For example, you can see from the figure below that the proportion of gamma wave
 ![The trend of brainwave rhythm proportion in the typical meditation state](ImagesL/6.PNG)
 
 ### Month View
+
 The Month view reflects the proportion trend of the five brain wave rhythms in the last month. The horizontal axis is the date.
 
 Tap any point in the graph, and you'll see the average percentage on that day. If you do more than one session a day, the number you see is the average percentage out of all sessions you have done that day.
 
+![graph](ImagesL/Brainwave-Rhythm-m.png)
+
 ### Year View
+
 The year view reflects the changing trend of the brainwave rhythm proportion in the last year, and the horizontal axis is the month.
 
 Tap any point in the graph, and you'll see the average percentage of that month. The number you see is the average of all sessions you have done in that month.
+
+![graph](ImagesL/Brainwave-Rhythm-y.png)
 
 ## Brainwave Rhythm Power Trend
 
@@ -34,3 +40,9 @@ The Brainwave Rhythm Power Trend Graph reflects the change of the absolute value
 For example, you can see from the following figure that during the session, the power of all rhythms in the first half rose slowly. And then the power of the gamma wave and beta wave in the second half increased significantly. At the same time, the alpha, theta, and delta waves decreased slightly,  indicating the user was more focused and arousal in the second half.
 
 ![Brainwave Rhythm Power Trend](ImagesL/7.png)
+
+## Brainwave-rhythm Proportion
+
+The trend graph of the proportion of brainwave rhythms reflects the change of the proportional relationship between the five brainwave rhythms over time. The horizontal axis is time, and the vertical axis is the proportion of the five brainwave rhythms. The vertical width of each color block in the figure represents the proportion of this brainwave rhythm. The wider the color block, the higher the proportion of this brainwave rhythm.
+
+![Brainwave-rhythm Proportion](ImagesL/20221104-195743.jpg)

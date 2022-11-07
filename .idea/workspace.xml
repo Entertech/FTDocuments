@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85979266-c476-4457-9206-05c037a70938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/HRV-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/HRV-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/attention-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/attention-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/brainwave-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/brainwave-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/heart-rate-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/heart-rate-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/relaxation-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/relaxation-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/respiratory-rate-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/respiratory-rate-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/stress-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/stress-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +50,8 @@
       <workItem from="1667463070951" duration="2048000" />
       <workItem from="1667467949071" duration="634000" />
       <workItem from="1667468964981" duration="857000" />
+      <workItem from="1667559989269" duration="3498000" />
+      <workItem from="1667566104520" duration="1644000" />
     </task>
     <servers />
   </component>

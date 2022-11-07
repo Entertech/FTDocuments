@@ -27,6 +27,10 @@ Since the monitoring of the stress level needs to collect some physiological ind
 
 The monthly view reflects the trend of the average stress level in the last 1 month, and the abscissa is the date. The height of each point in the curve represents the average stress level for all experiences that day. A short-term trend in stress levels can be seen from the monthly view.
 
+![graph)](ImagesL/20221104-204551.jpg)
+
 ### Year View
 
 The  year view reflects the trend of the average stress level in the last 1 year, and the abscissa is the month. The height of each point in the curve represents the average of the daily stress level averages for the month. The long-term trend in stress levels can be seen in the annual view.
+
+![graph)](ImagesL/20221104-204602.jpg)

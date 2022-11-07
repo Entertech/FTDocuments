@@ -20,6 +20,10 @@ The session view reflects the trend of the real-time respiratory rate during the
 
 The month view reflects the trend of the average of respiratory rate in the last 1 month, and the abscissa is the date. Each point in the line graph represents the average respiratory rate of all sessions that day, and the bar graph in the background represents the range of respiratory rate variation for all sessions that day. The short-term trend in respiratory rate can be seen from the month view.
 
+![graph)](ImagesL/Respiratory-m.png)
+
 ### Year View
 
 The year view reflects the trend of the average of respiratory rate in the last 1 year, with the abscissa as the month. The height of each bar in the histogram represents the average of the daily respiratory rate averages for the month. The long-term trend in respiratory rate can be seen from the annual view.
+
+![graph)](ImagesL/Respiratory-y.png)

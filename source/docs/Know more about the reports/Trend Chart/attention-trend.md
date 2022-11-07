@@ -23,9 +23,9 @@ Changes in meditative attention after long-term concentration training (continuo
 Changes in attention in relaxation meditation (attention levels drop and remain low)
 
 ### Month View
-
+![graph)](ImagesL/Attention-m.png)
 The month view reflects the trend of the average level of attention in the last 1 month, and the horizontal axis is the date. The height of each bar in the histogram represents the average attention span of all experiences that day. A short-term trend in attention levels can be seen from the month view.
 
 ### Year View
-
+![graph)](ImagesL/Attention-y.png)
 The year view reflects the trend of the average level of attention in the last 1 year, and the abscissa is the month. The height of each bar in the histogram represents the average of the daily attention averages for the month. Long-term trends in attention levels can be seen from the year view.
