@@ -1,6 +1,6 @@
 ---
 slug: /trend/relaxation-trend
-sidebar_label: 放松度变化趋势图
+sidebar_label: 放松度
 sidebar_position: 5
 hide_title: true
 ---
@@ -27,6 +27,10 @@ hide_title: true
 
 月视图反映了最近 1 个月放松度平均水平的变化趋势，横坐标为日期。柱状图中每个柱形的高度表示当天所有体验的放松度平均值。从月视图中可以看到放松度水平短期的变化趋势。
 
+![图](Image3/relax-m.png)
+
 ### 年视图
 
 年视图反映了最近 1 年放松度平均水平的变化趋势，横坐标为月份。柱状图中每个柱形的高度表示当月每日放松度平均值的平均水平。从年视图中可以看到放松度水平长期的变化趋势。
+
+![图](Image3/relax-m-1.png)

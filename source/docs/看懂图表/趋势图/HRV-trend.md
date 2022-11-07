@@ -1,6 +1,6 @@
 ---
 slug: /trend/HRV-trend
-sidebar_label: 心率变异性（HRV）的变化曲线图
+sidebar_label: 心率变异性（HRV）
 sidebar_position: 3
 hide_title: true
 ---
@@ -30,6 +30,10 @@ hide_title: true
 
 月视图反映了最近 1 个月 HRV 平均水平的变化趋势，横坐标为日期。柱状图中每个柱形的高度表示当天所有体验的 HRV 平均值。从月视图中可以看到 HRV 水平短期的变化趋势。
 
+![图](Image3/hrv-m.png)
+
 ### 年视图
 
 年视图反映了最近 1 年 HRV 平均水平的变化趋势，横坐标为月份。柱状图中每个柱形的高度表示当月每日 HRV 平均值的平均水平。从年视图中可以看到 HRV 水平长期的变化趋势。
+
+![图](Image3/hrv-m-1.png)
