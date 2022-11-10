@@ -1,6 +1,6 @@
 ---
 slug: /trend/attention-trend
-sidebar_label: 注意力变化趋势图
+sidebar_label: 注意力
 sidebar_position: 6
 hide_title: true
 ---
