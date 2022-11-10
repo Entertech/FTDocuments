@@ -23,6 +23,6 @@ hide_title: true
 
 [呼吸率](/trend/respiratory-rate-trend)
 
-[最近7次趋势图](/trend/last-7-times)
+[最近 7 次](/trend/last-7-times)
 
-[长期趋势图](/trend/long-term-trend)
+[看懂「变化曲线」](/trend/long-term-trend)

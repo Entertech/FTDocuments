@@ -1,7 +1,7 @@
 ---
 slug: /trend/stress-trend
 sidebar_label: 压力
-sidebar_position: 7
+sidebar_position: 5
 hide_title: true
 ---
 
