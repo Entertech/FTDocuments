@@ -4,7 +4,6 @@
     <list default="true" id="85979266-c476-4457-9206-05c037a70938" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/attention-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/attention-trend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,8 @@
       <workItem from="1667566104520" duration="1644000" />
       <workItem from="1667895805422" duration="610000" />
       <workItem from="1668066808414" duration="200000" />
+      <workItem from="1668131693346" duration="9000" />
+      <workItem from="1668410470278" duration="2128000" />
     </task>
     <servers />
   </component>
