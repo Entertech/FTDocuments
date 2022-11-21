@@ -7,7 +7,7 @@ hide_title: true
 
 ## What is Relaxation?
 
-When you are calm and relaxed, brain waves have unique characteristics, as studies have shown a link between increased alpha wave energy and relaxation.[^1][^2][^3][^4]
+When you are calm and relaxed, brainwaves have unique characteristics, as studies have shown a link between increased alpha wave energy and relaxation.[^1][^2][^3][^4]
 
 The waves will be captured by Flowtime sensors and the algorithm which is built based on large data analysis will measure how relaxed you are and generate an index to manifest that.
 
