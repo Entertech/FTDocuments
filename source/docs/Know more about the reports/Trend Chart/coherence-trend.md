@@ -19,7 +19,7 @@ Heart rate and blood pressure regulate each other to form a closed-loop circuit 
 
 When you **inhale for 5 seconds and exhale for 5 seconds**, this constitutes a 10-second breathing cycle that resonates with the circuit of heart rate and blood pressure. This breathing pattern is known as Resonant Breathing.
 
-Studies indicate that resonant breathing can significantly reduce negative emotions such as anxiety, depression, and anger and improve creativity and athletic performance [^1][^2]. Patients with chronic pain, asthma, and pre-hypertension can mitigate their symptoms by practicing resonant breathing [^3][^4][^5].
+Studies indicate that resonant breathing can significantly reduce negative emotions such as anxiety, depression, and anger and improve creativity and athletic performance [^1-2]. Patients with chronic pain, asthma, and pre-hypertension can mitigate their symptoms by practicing resonant breathing [^3-5].
 
 Guided Breathing mode in the Flowtime App will guide you to practice resonant breathing through sounds, images, and vibrations.
 
