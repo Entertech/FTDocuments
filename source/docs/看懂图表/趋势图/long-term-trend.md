@@ -1,7 +1,7 @@
 ---
 slug: /trend/long-term-trend
 sidebar_label: 看懂「变化曲线」
-sidebar_position: 9
+sidebar_position: 10
 hide_title: true
 ---
 
