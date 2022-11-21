@@ -15,6 +15,6 @@ At this time, the two branches of the autonomic nervous system (ANS), the sympat
 ![Breath coherence](ImagesG/Breathcoherence.jpg)
 
 [^1]: Courtney, Rosalba & Cohen, Marc & Dixhoorn, Jan. (2011). Relationship Between Dysfunctional Breathing Patterns and Ability to Achieve Target Heart Rate Variability With Features of "Coherence" During Biofeedback. Alternative therapies in health and medicine. 17. 38-44. 
-[^2]:McCraty, Rollin. (2005). Enhancing Emotional, Social, and Academic Learning With Heart Rhythm Coherence Feedback. Biofeedback and Self-Regulation. 33. 130-134. 
-[^3]:Edwards, Stephen. (2014). Evaluation of heart rhythm coherence feedback training on physiological and psychological variables. South African journal of psychology = Suid-Afrikaanse tydskrif vir sielkunde. 2014. 73– 82. 10.1177/0081246313516255.
+[^2]: McCraty, Rollin. (2005). Enhancing Emotional, Social, and Academic Learning With Heart Rhythm Coherence Feedback. Biofeedback and Self-Regulation. 33. 130-134. 
+[^3]: Edwards, Stephen. (2014). Evaluation of heart rhythm coherence feedback training on physiological and psychological variables. South African journal of psychology = Suid-Afrikaanse tydskrif vir sielkunde. 2014. 73– 82. 10.1177/0081246313516255.
 

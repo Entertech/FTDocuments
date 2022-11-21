@@ -11,5 +11,6 @@ hide_title: true
 * [What is Relaxation?](/Glossary/What-is-Relaxation)
 * [What is Heart Rate Variability?](/Glossary/What-is-Heart-Rate-Variability)
 * [What is Brainwave(EEG)?](/Glossary/What-is-Brainwave)
-* [What is Stress?](/Glossary/What-is-stress)
+* [What is Stress?](/Glossary/What-is-Stress)
 * [What is Heart Rate?](/Glossary/What-is-Heart-Rate)
+* [What is Resonant Breathing?](/Glossary/What-is-Resonant-Breathing)
