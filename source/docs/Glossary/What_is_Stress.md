@@ -1,5 +1,5 @@
 ---
-slug: /Glossary/What-is-stress
+slug: /Glossary/What-is-Stress
 sidebar_label: Stress
 sidebar_position: 7
 hide_title: true
