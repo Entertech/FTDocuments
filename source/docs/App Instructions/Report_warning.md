@@ -12,7 +12,11 @@ Poor signal quality for some data during the session. It may be because the cush
 
 Without sitting on the cushion, the sensor cannot collect data. No valid data is shown by some of the data being a straight gray line during the session.
 
+![Poor signal](ImagesH/poor_signal_2.png)
+
 Large body movements during the session can prevent the cushion sensor from making full contact with the body, resulting in poor signal quality. The signal quality is bad when the gray color is displayed.
+
+![Poor signal](ImagesH/poor_signal_1.png)
 
 During the session, sound and notification will be when the data signal quality is not good. You can adjust the sitting position according to the prompts to get a good signal. The data with bad signal quality will be displayed in gray in the session record.
 
@@ -49,12 +53,16 @@ Low battery level of the device may also lead to unstable connection. Please cha
 
 During the session, there will be sound and notification prompts when the device is disconnected. You can reconnect the device according to the prompt. In the session record, the data after the device is disconnected will be shown as a gray straight line.
 
-### Device disconnected{#network-disconnected}
+![Device Disconnected](ImagesH/device_disconnected.png)
+
+### Network disconnected{#network-disconnected}
 The network was disconnected during the session. It is possible that the network signal is bad or there is no network.
 
 The data analysis of the heart flow moment needs network support, if the network signal is bad or there is no network, you will not be able to get effective data analysis.
 
 During the session, there will be a sound and notification when the network is disconnected. You can reconnect to the network according to the prompts. The session record shows the data after the device is disconnected as a gray line.
+
+![Network Disconnected](ImagesH/network_disconnected.png)
 
 :::info
 If you are still not connected to the network at the end of the session, you will not be able to get valid data analysis and the session records will have no data analysis.
