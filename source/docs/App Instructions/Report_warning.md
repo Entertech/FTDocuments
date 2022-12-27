@@ -21,8 +21,8 @@ Large body movements during the session can prevent the cushion sensor from maki
 During the session, sound and notification will be when the data signal quality is not good. You can adjust the sitting position according to the prompts to get a good signal. The data with bad signal quality will be displayed in gray in the session record.
 
 :::tip
-* [Learn about real-time alerts when the signal quality is bad.](../Cushion%20Instructions/There_is_no_real-time_biodata_displayed.md)
-* [Learn how to use the cushion properly.](../Cushion%20Instructions/Sitting%20Instructions.md)
+* [Learn about real-time alerts when the signal quality is bad.](/Cushion-Instructions/There-is-no-real-time-biodata-displayed)
+* [Learn how to use the cushion properly.](/Cushion-Instructions/Sitting-Instructions)
 :::
 
 #### Poor signal quality or no data(headband)
@@ -37,7 +37,7 @@ During the session, sound and notification will be when the data signal quality 
 
 
 :::tip
-* [Learn about real-time alerts when the signal quality is bad.](/source/docs/Headband%20Instructions/There_is_no_real-time_biodata_displayed.md)
+* [Learn about real-time alerts when the signal quality is bad.](/Headband-Instructions/There-is-no-real-time-biodata-displayed)
 :::
 
 ### Device disconnected{#device-disconnected}
