@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85979266-c476-4457-9206-05c037a70938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/docs/Glossary/What_is_Stress.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Glossary/Directory-Glossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Glossary/Directory-Glossary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Glossary/What_is_Breath_Coherence.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Glossary/What_is_Breath_Coherence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Glossary/What_is_stress.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Glossary/What_is_Resonant_Breathing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Cushion Instructions/Sitting Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Cushion Instructions/Sitting Instructions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/docs/Glossary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
@@ -56,6 +51,7 @@
       <workItem from="1668410470278" duration="2128000" />
       <workItem from="1669003731102" duration="223000" />
       <workItem from="1669033346306" duration="62000" />
+      <workItem from="1675240762659" duration="194000" />
     </task>
     <servers />
   </component>
