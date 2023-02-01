@@ -14,10 +14,10 @@ The session view records the time period of the coherent state during the sessio
 The pattern of breathing during meditation affects the pattern of heart rate variation. The heart rate curve can intuitively reflect the coherent state during meditation. In general, the change of heart rate is disordered. Through [resonant breathing](/Glossary/What-is-Resonant-Breathing) (inhale for 5 seconds, exhale for 5 seconds), the heart rate can show a periodic rhythm and achieve a state of heart-brain coherence. Long-term breathing training can make it easier for the body to enter a state of coherence and maintain it for a longer period of time, resulting in a longer coherence time and a higher proportion of coherence.
 
 #### Heart rate curve reflects coherence (heart rate changes disorderly in the gray part, and a coherent state is achieved through regular deep breathing in the green part)
-![graph](ImagesL/32.png)
+![graph](ImagesL/20230201-154211.jpg)
 
 #### Heart rate curve in coherent state (continuous long coherence) during breathing exercises by experienced meditators
-![graph](ImagesL/20221110-173714.jpg)
+![graph](ImagesL/20230201-154247.jpg)
 
 ### Month View
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85979266-c476-4457-9206-05c037a70938" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/source/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/coherence-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
