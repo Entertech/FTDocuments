@@ -13,3 +13,4 @@ hide_title: true
 * [How to clean the headband?](/Headband-Instructions/How-to-clean-the-headband)
 * [I have problems in connecting the headband with the app](/Headband-Instructions/I-have-problems-in-connecting-the-headband-with-the-app)
 * [How long does it take to charge the headbband?](/Headband-Instructions/How-long-does-it-take-to-charge-the-headband)
+* [Can't connect headband to the app after firmware update](/Cannot-connect-headband-to-the-app-after-firmware-update)
