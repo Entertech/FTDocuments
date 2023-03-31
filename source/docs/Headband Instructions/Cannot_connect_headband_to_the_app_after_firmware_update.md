@@ -1,6 +1,6 @@
 ---
 slug: /Headband-Instructions/Cannot-connect-headband-to-the-app-after-firmware-update
-sidebar_label: Firmware update
+sidebar_label: Bluetooth can't connect after update
 sidebar_position: 8
 hide_title: true
 ---

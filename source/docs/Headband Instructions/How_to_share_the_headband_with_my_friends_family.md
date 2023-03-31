@@ -11,4 +11,4 @@ hide_title: true
 
 - If the headband is already paired with your app, press the button, and hold it till the light flashes rapidly, which means it's ready to pair. Or close the app, and the headband will be ready to pair as well.
 
-- when the headband is ready to pair, sign up for another account and tap the icon on the upper right corner of the screen in the app and connect the headband with the new account as the instruction says.
+- When the headband is ready to pair, sign up for another account and tap the icon on the upper right corner of the screen in the app and connect the headband with the new account as the instruction says.
