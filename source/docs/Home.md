@@ -11,7 +11,9 @@ If you have any questions about Flowtime, please look them up here. If your prob
 
 ### Glossary
 
-* [What is Breath Coherence?](/Glossary/What-is-Breath-Coherence) 
+* [What is Breath Coherence?](/Glossary/What-is-Breath-Coherence)
+* [What is Flow?](/Glossary/What-is-FLow)
+* [What is Biofeedback?](/Glossary/What-is-Biofeedback)
 * [What is Attention?](/Glossary/What-is-Attention)
 * [What is Brainwave Rhythms?](/Glossary/What-is-Brainwave-Rhythms)
 * [What is Relaxation?](/Glossary/What-is-Relaxation)
@@ -48,8 +50,9 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [There is no real-time biodata displayed.](/Headband-Instructions/There-is-no-real-time-biodata-displayed)
 * [Should I turn headband off after meditation?](/Headband-Instructions/Should-I-turn-headband-off-after-meditation)
 * [How to clean the headband?](/Headband-Instructions/How-to-clean-the-headband)
-* [I have problems in connecting the headband with the app](Headband-Instructions/I-have-problems-in-connecting-the-headband-with-the-app)
+* [I have problems in connecting the headband with the app.](Headband-Instructions/I-have-problems-in-connecting-the-headband-with-the-app)
 * [How long does it take to charge the headbband?](/Headband-Instructions/How-long-does-it-take-to-charge-the-headband)
+* [Can't connect headband to the app after firmware update.](/Cannot-connect-headband-to-the-app-after-firmware-update)
 
 ### Cushion Instructions
 * [How to share the cushion with my friends/family?](/Cushion-Instructions/How-to-share-the-cushion-with-my-friends/family)
@@ -62,7 +65,11 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [Sitting Instructions](/Cushion-Instructions/Sitting-Instructions)
 
 ### App Instructions
-* [Where to download Flowtime App](/App-Instructions/Where-to-download-Flowtime-App)
+* [Where to download Flowtime App?](/App-Instructions/Where-to-download-Flowtime-App)
 * [How to make meditation a daily habit?](/App-Instructions/How-to-make-meditation-a-daily-habit)
 * [How to record a session with other meditation apps?](/App-Instructions/How-to-record-a-session-with-other-meditation-apps)
-* [A quick guide to using the report exported](App-Instructions/A-quick-guide-to-using-the-report-exported)  
+* [How to set biofeedback?](App-Instructions/how-to-set-biofeedback)
+* [A quick guide to using the report exported.](App-Instructions/A-quick-guide-to-using-the-report-exported)
+* [Monthly report](/App-Instructions/Monthly-report)
+* [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
+  
