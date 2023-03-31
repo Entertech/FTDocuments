@@ -1,0 +1,7 @@
+diff a/.dockerignore b/.dockerignore	(rejected hunks)
+@@ -1,5 +0,0 @@
+-MeetFlowtime
+-.gitignore
+-.dockerignore
+-docker-compose.yaml
+-Dockerfile
