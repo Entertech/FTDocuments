@@ -1,6 +1,7 @@
 ---
 slug: /App-Instructions/Monthly-report
 sidebar_label: Monthly report
+sidebar_position: 4
 hide_title: true
 ---
 

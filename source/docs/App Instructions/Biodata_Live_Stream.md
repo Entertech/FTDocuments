@@ -1,6 +1,7 @@
 ---
 slug: /App-Instructions/Biodata-Live-Stream
 sidebar_label: Biodata Live Stream
+sidebar_position: 5
 hide_title: true
 ---
 
