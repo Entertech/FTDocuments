@@ -4,7 +4,9 @@ sidebar_label: Directory-Glossary
 sidebar_position: 0
 hide_title: true
 ---
+
 ## Directory
+
 * [What is Breath Coherence?](/Glossary/What-is-Breath-Coherence)
 * [What is Biofeedback?](/Glossary/What-is-Biofeedback)
 * [What is Flow?](/Glossary/What-is-Flow)
