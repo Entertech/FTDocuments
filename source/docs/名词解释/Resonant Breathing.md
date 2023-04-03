@@ -1,7 +1,7 @@
 ---
 slug: /glossary/resonant-breathing
 sidebar_label: 共振呼吸
-sidebar_position: 2
+sidebar_position: 0
 hide_title: true
 ---
 
