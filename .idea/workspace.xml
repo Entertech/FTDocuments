@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11e385e9-aa75-43f2-ab4f-55c62bdc4c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/Premium Membership.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-flow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/flow-trend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" afterDir="false" />
+    <list default="true" id="4f4cf916-6161-4910-9736-8c0158473abf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/source/docs/应用使用指南/set-biofeedback.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Na3LRG29viutGz3lGVQVsnuJ2i" />
+  <component name="ProjectId" id="2ODXPlbNgkYMmKZVCC0TMkG01Nu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,33 +22,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/docs/App Instructions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\XMX\GitHub\FTDocuments\source\docs\App Instructions" />
-      <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Know more about the reports\Realtime Chart" />
-      <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Glossary" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="11e385e9-aa75-43f2-ab4f-55c62bdc4c98" name="Default Changelist" comment="" />
-      <created>1679888311674</created>
+      <changelist id="4f4cf916-6161-4910-9736-8c0158473abf" name="Default Changelist" comment="" />
+      <created>1681096107271</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679888311674</updated>
-      <workItem from="1679888314606" duration="909000" />
-      <workItem from="1679921137943" duration="186000" />
-      <workItem from="1679974208665" duration="2536000" />
-      <workItem from="1680165616168" duration="1136000" />
-      <workItem from="1680179104891" duration="2050000" />
-      <workItem from="1680181257813" duration="678000" />
-      <workItem from="1680229569098" duration="3386000" />
-      <workItem from="1680493144400" duration="427000" />
+      <updated>1681096107271</updated>
+      <workItem from="1681096110397" duration="30000" />
     </task>
     <servers />
   </component>
