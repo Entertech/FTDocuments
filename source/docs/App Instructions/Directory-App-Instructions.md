@@ -13,3 +13,4 @@ hide_title: true
 * [A quick guide to using the report exported.](App-Instructions/A-quick-guide-to-using-the-report-exported)
 * [Monthly report](/App-Instructions/Monthly-report)
 * [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
+* [Premium membership](/App-Instructions/Premium-membership)

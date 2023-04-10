@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11e385e9-aa75-43f2-ab4f-55c62bdc4c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/docs/应用使用指南/set-biofeedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/Premium Membership.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-flow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/flow-trend.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/source/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +29,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/docs/App Instructions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\XMX\GitHub\FTDocuments\source\docs\App Instructions" />
+      <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Know more about the reports\Realtime Chart" />
       <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Glossary" />
     </key>
   </component>
