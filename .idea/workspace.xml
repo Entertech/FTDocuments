@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11e385e9-aa75-43f2-ab4f-55c62bdc4c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/Biodata_Live_Stream.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/How_to_set_biofeedback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/Monthly_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/Glossary/What_is_Biofeedback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/docs/Glossary/What_is_Flow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/App Instructions/Premium Membership.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/realtime-flow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/flow-trend.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/App Instructions/Directory-App-Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Glossary/Directory-Glossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Glossary/Directory-Glossary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Headband Instructions/Cannot_connect_headband_to_the_app_after_firmware_update.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Headband Instructions/Cannot_connect_headband_to_the_app_after_firmware_update.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Headband Instructions/Directory-Headband-Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Headband Instructions/Directory-Headband-Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/docs/Headband Instructions/How_to_share_the_headband_with_my_friends_family.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Headband Instructions/How_to_share_the_headband_with_my_friends_family.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/docs/Home.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Realtime Chart/directory-realtime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/Know more about the reports/Trend Chart/directory-trend.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\XMX\GitHub\FTDocuments\source\docs\App Instructions" />
+      <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Know more about the reports\Realtime Chart" />
       <recent name="D:\XMX\GitHub\FTDocuments\source\docs\Glossary" />
     </key>
   </component>
@@ -59,6 +55,7 @@
       <workItem from="1680179104891" duration="2050000" />
       <workItem from="1680181257813" duration="678000" />
       <workItem from="1680229569098" duration="3386000" />
+      <workItem from="1680493144400" duration="427000" />
     </task>
     <servers />
   </component>

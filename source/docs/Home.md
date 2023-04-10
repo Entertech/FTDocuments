@@ -27,6 +27,7 @@ If you have any questions about Flowtime, please look them up here. If your prob
 #### How to Read Realtime Bio-data
 * [Realtime Brainwave](/realtime/realtime-brainwave)
 * [Realtime Brainwave Rhythm](/realtime/realtime-brainwave-rhythms)
+* [Realtime Flow](/realtime/realtime-flow)
 * [Realtime Respiration](/realtime/realtime-respiration)
 * [Realtime Heart Rate](/realtime/realtime-heart-rate)
 * [Realtime Coherence](/realtime/realtime-coherence)
@@ -36,6 +37,7 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [Brainwave Rhythm Trend](/trend/brainwave-rhythm-trend)
 * [Heart Rate Trend](/trend/heart-rate-trend)
 * [HRV Trend](/trend/HRV-trend)
+* [Flow Trend](/trend/flow-trend)
 * [Attention Trend](/trend/attention-trend)
 * [Relaxation Trend](/trend/relaxation-trend)
 * [Stress Trend](/trend/stress-trend)
@@ -72,4 +74,5 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [A quick guide to using the report exported.](App-Instructions/A-quick-guide-to-using-the-report-exported)
 * [Monthly report](/App-Instructions/Monthly-report)
 * [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
+* [Premium membership](/App-Instructions/Premium-membership)
   

@@ -9,6 +9,7 @@ hide_title: true
 
 * [Realtime Brainwave](/realtime/realtime-brainwave)
 * [Realtime Brainwave Rhythm](/realtime/realtime-brainwave-rhythms)
+* [Realtime Flow](/realtime/realtime-flow)
 * [Realtime Respiration](/realtime/realtime-respiration)
 * [Realtime Heart Rate](/realtime/realtime-heart-rate)
 * [Realtime Coherence](/realtime/realtime-coherence)
