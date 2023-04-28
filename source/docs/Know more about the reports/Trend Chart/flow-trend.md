@@ -19,10 +19,10 @@ The graph has different colors to show how much time we spend in each state. The
 If we are new to meditation, we may find it challenging to flow as our minds are easy to wander and get distracted, which prevents us from focused calm, and deep relaxation. It may take a long time to adjust and get into the flow. But with practice, it would be easier to flow and stay in the flow state longer.
 
 #### It takes a long time to get into the flow for beginners.
-![graph](ImagesL/output.jpeg)
+![graph](ImagesL/66.png)
 
 #### Experienced meditators get into a flow state faster and stay there longer.
-![graph](ImagesL/1280X1280.PNG)
+![graph](ImagesL/1.png)
 
 ### Month View
 
@@ -32,4 +32,5 @@ The monthly view shows the trend of flow time for the last month. Each bar in th
 ### Year View
 
 The graph also has a yearly view that shows the trend of flow time for the last year. Each bar in the bar graph represents the total flow time for all sessions in a month.  By analyzing the yearly view, you can see your progress over time. You can identify whether you are consistently meditating or if you are skipping sessions and how it affects your flow time. This information can help you set goals and track your progress toward achieving them. Additionally, you can use the yearly view to evaluate your overall meditation practice and adjust for the future.
+
 ![graph)](ImagesL/11111.png)
