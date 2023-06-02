@@ -20,7 +20,7 @@ module.exports = {
             title: 'Flowtime Help Center',
             logo: {
                 alt: 'Flowtime',
-                src: 'img/logo.svg',
+                src: 'static/img/logo.svg',
             },
             items: [
                 // {
