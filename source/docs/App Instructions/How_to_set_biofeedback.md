@@ -10,9 +10,11 @@ hide_title: true
 ### Where to turn it on/off?
 ![biofeedback0](ImagesH/output.png)
 
-After connecting the device and starting a session, you can see the Biofeedback status in the upper right corner.
+Before you start a session, you can go to Me - Flowtime Biofeedback to turn it on or off. You can also set the metrics, sounds, and intervals.
 
-Different icons correspond to different feedback metrics, each with an icon. Each icon has two states, representing whether biofeedback is on or off. 
+After connecting the device and starting a session, you can see the Biofeedback status in the upper right corner. Tapping the icon will take you to the Biofeedback setting page to make a change.
+
+Different icons correspond to different feedback metrics, each with an icon. Each icon has two states, representing whether biofeedback is on or off.
 
 ![biofeedback1](ImagesH/output1.png)
 
@@ -40,21 +42,21 @@ In each metric, you can set the biofeedback threshold. The default threshold is 
 
 All metrics and indications are shown in the following table:
 
-|          Category         |       Metric      | Default|     Range   |              Note             |
-|:-------------------------:|:-----------------:|:------:|:-----------:|:-----------------------------:|
-|           Goals           |        Flow       |        |             |           |
-|                           |     Coherence     |        |             |           |
-| Brainwave Rhythms(Premium)|         α         |  ＞27% |    10~40%   |           | 
-|                           |         β         |  ＞35% |    20~60%   |           |
-|                           |         θ         |  ＞24% |    10~40%   |           | 
-|                           |         δ         |  ＞10% |    5~20%    |           | 
-|                           |         γ         |  ＞10% |    5~30%    |           |              
-|      Moods(Premium)       |     Attention     |  ＞75  |    1~100    |  Low：0-29，Medium：30-69，High：70-100  |
-|                           |     Relaxation    |  ＞75  |    1~100    |  Low：0-29，Medium：30-69，High：70-100  |
-|      Biodata(Premium)     |     Heart Rate    |  ＜65  |    40~120   |  bpm                                    |
-|                           |  Respiratory Rate |  ≤ 6   |     4~8     |  breath/min                             |
+|          Category         |       Metric      |              Note             |
+|:-------------------------:|:-----------------:|:-----------------------------:|
+|           Goals           |        Flow       |           |
+|                           |     Coherence     |           |
+| Brainwave Rhythms(Premium)|         α         |           | 
+|                           |         β         |           |
+|                           |         θ         |           | 
+|                           |         δ         |           | 
+|                           |         γ         |           |              
+|      Moods(Premium)       |     Attention     |  Low：0-29，Medium：30-69，High：70-100  |
+|                           |     Relaxation    |  Low：0-29，Medium：30-69，High：70-100  |
+|      Biodata(Premium)     |     Heart Rate    |  bpm                                    |
+|                           |  Respiratory Rate |  breath/min                             |
 
 ### How does it work?
 When you practice, you will hear the biofeedback sound if you reach your desired status.
 
-For example, if your desired state is when your heart rate is lower than 65, and you would like to hear it every 5 seconds, set Heart Rate ＜65 and interval 5s. The sound will play when your heart rate decreases and falls below 65. If you can keep it there, you'll hear the sound every 5 seconds. When your heart rate >= 65, the sound will not ring.
+For example, if your desired state is when your heart rate is lower than 65, and you would like to hear it every 5 seconds, set your Heart Rate ＜65 and interval 5s. The sound will play when your heart rate decreases and falls below 65. If you can keep it there, you'll hear the sound every 5 seconds. When your heart rate >= 65, the sound will not ring.
