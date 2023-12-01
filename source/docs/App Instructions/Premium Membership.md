@@ -29,12 +29,17 @@ hide_title: true
   
   Take your meditation practice to the next level with our premium biofeedback metrics. In addition to Flow and Coherence, you can set personalized metrics like gamma wave and attention, giving you a deeper understanding of your mind and body.
 
-### How to get a membership?
+### How do I get a membership?
 
-- Redeem code
-  
-  After you purchase a headband or a set of cushions, you'll get a gift card with a code. You can visit the Flowtime app - Me - Redeem for a 3-month membership. The membership expires automatically when the period ends.
+- Purchase from website
+
+You can purchase a one-year membership from the website. After you pay, you'll get a code to redeem your membership by email. The email will be sent manually in at most one work day.
 
 - Subscription
-  
-  Subscribe yearly at $59.99. You'll have access to all features. It will be renewed automatically at the end of the period. If you want to cancel it, please go to Account Settings to turn it off for at least 24 hours before the membership ends.
+
+Subscribe yearly in the app. You'll have access to all features. It will be renewed automatically at the end of the period. If you want to cancel it, please go to Account Settings to turn it off for at least 24 hours before the membership ends.
+
+- Redeem code
+
+We always appreciate hearing about your experiences. If you decide to share your thoughts by commenting on our website, reviewing on Amazon, or posting on social media, we do offer a complimentary 3-month membership to show gratitude for your valuable insights. (Learn more by going to Flowtime app - Me - Contact us. )
+    The membership acquired by code expires automatically when the period ends.
