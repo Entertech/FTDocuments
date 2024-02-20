@@ -17,15 +17,15 @@ hide_title: true
   
   Immerse yourself in a world of tranquility with our premium sounds. From soothing natural sounds to calming music, our carefully curated collection will transport you to a place of peace and serenity.
 
-- [Biodata Live Stream](/Biodata-Live-Stream)
+- [Biodata Live Stream](Biodata-Live-Stream)
   
   Share your meditation journey with the world by streaming your biodata live. Watch in real-time as your brainwaves, heart rate variability, and other metrics change over time, and feel a sense of accomplishment as you see your progress.
 
-- [Monthly Meditation Report](/Monthly-report)
+- [Monthly Meditation Report](Monthly-report)
 
   Stay on track with your meditation goals by receiving a monthly report on your progress. Our detailed analysis will help you identify areas for improvement and celebrate your successes.
 
-- [Premium Biofeedback Metrics](/How-to-set-biofeedback)
+- [Premium Biofeedback Metrics](How-to-set-biofeedback)
   
   Take your meditation practice to the next level with our premium biofeedback metrics. In addition to Flow and Coherence, you can set personalized metrics like gamma wave and attention, giving you a deeper understanding of your mind and body.
 
