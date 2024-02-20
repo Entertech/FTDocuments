@@ -25,7 +25,7 @@ hide_title: true
 
   Stay on track with your meditation goals by receiving a monthly report on your progress. Our detailed analysis will help you identify areas for improvement and celebrate your successes.
 
-- [Premium Biofeedback Metrics](App-Instructions/how-to-set-biofeedback)
+- [Premium Biofeedback Metrics](App-Instructions/How-to-set-biofeedback)
   
   Take your meditation practice to the next level with our premium biofeedback metrics. In addition to Flow and Coherence, you can set personalized metrics like gamma wave and attention, giving you a deeper understanding of your mind and body.
 
