@@ -1,6 +1,6 @@
 ---
 slug: /App-Instructions/Where-to-Download-Flowtime-App
-sidebar_label: Download APP
+sidebar_label: Download App
 sidebar_position: 1
 hide_title: true
 ---

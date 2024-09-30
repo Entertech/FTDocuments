@@ -14,3 +14,5 @@ hide_title: true
 * [Monthly report](/App-Instructions/Monthly-report)
 * [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
 * [Premium membership](/App-Instructions/Premium-membership)
+* [How to record a sleep session with other audio apps?](/App-Instructions/How-to-record-a-sleep-session-with-other-audio-apps)
+* [How to delete an account?](App-Instructions/how-to-delete-an-account)

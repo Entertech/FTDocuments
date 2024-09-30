@@ -23,8 +23,8 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [What is Heart Rate?](/Glossary/What-is-Heart-Rate)
 
 
-### Know more about the reporters
-#### How to Read Realtime Bio-data
+### Know more about meditation reports
+#### How to undertand realtime bio-data
 * [Realtime Brainwave](/realtime/realtime-brainwave)
 * [Realtime Brainwave Rhythm](/realtime/realtime-brainwave-rhythms)
 * [Realtime Flow](/realtime/realtime-flow)
@@ -33,7 +33,7 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [Realtime Coherence](/realtime/realtime-coherence)
 * [Realtime Attention](/realtime/realtime-attention)
 * [Realtime Relaxation](/realtime/realtime-relaxation)
-#### How to Read Bio-data Trend
+#### How to understnadn bio-data trend
 * [Brainwave Rhythm Trend](/trend/brainwave-rhythm-trend)
 * [Heart Rate Trend](/trend/heart-rate-trend)
 * [HRV Trend](/trend/HRV-trend)
@@ -57,14 +57,16 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [Can't connect headband to the app after firmware update.](/Cannot-connect-headband-to-the-app-after-firmware-update)
 
 ### Cushion Instructions
-* [How to share the cushion with my friends/family?](/Cushion-Instructions/How-to-share-the-cushion-with-my-friends/family)
-* [How do I knnow the battery status?](/Cushion-Instructions/How-do-I-know-the-battery-status)
-* [There is no real-time biodata displayed.](/Cushion-Instructions/There-is-no-real-time-biodata-displayed)
-* [Should I turn cushion off after meditation?](/Cushion-Instructions/Should-I-turn-cushion-off-after-meditation)
-* [How to clean the cushion?](/Cushion-Instructions/How-to-clean-the-cushion)
-* [I have problems in connecting the cushion with the app](Cushion-Instructions/I-have-problems-in-connecting-the-cushion-with-the-app)
-* [How long does it take to charge the cushion?](/Cushion-Instructions/How-long-does-it-take-to-charge-the-cushion)
-* [Sitting Instructions](/Cushion-Instructions/Sitting-Instructions)
+* [Where to download Flowtime App?](/App-Instructions/Where-to-download-Flowtime-App)
+* [How to make meditation a daily habit?](/App-Instructions/How-to-make-meditation-a-daily-habit)
+* [How to record a session with other meditation apps?](/App-Instructions/How-to-record-a-session-with-other-meditation-apps)
+* [How to set biofeedback?](App-Instructions/how-to-set-biofeedback)
+* [A quick guide to using the report exported.](App-Instructions/A-quick-guide-to-using-the-report-exported)
+* [Monthly report](/App-Instructions/Monthly-report)
+* [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
+* [Premium membership](/App-Instructions/Premium-membership)
+* [How to record a sleep session with other audio apps?](/App-Instructions/How-to-record-a-sleep-session-with-other-audio-apps)
+* [How to delete an account?](App-Instructions/how-to-delete-an-account)
 
 ### App Instructions
 * [Where to download Flowtime App?](/App-Instructions/Where-to-download-Flowtime-App)
@@ -75,4 +77,24 @@ If you have any questions about Flowtime, please look them up here. If your prob
 * [Monthly report](/App-Instructions/Monthly-report)
 * [Biodata Live Stream](/App-Instructions/Biodata-Live-Stream)
 * [Premium membership](/App-Instructions/Premium-membership)
-  
+
+
+### Tag instructions
+* [How to Connect the Tag](/Tag-Instructions/How-to-Connect-the-Tag?)
+* [How to Ensure Good Signal Quality During Sleep](/Tag-Instructions/How-to-Ensure-Good-Signal-Quality-During-Sleep?)
+* [Learn more about Brain Tag](/Tag-Instructions/Learn-more-about-Brain-Tag)
+
+
+### Know more about sleep reports
+* [Sleep Scores](/Sleep-Reports/Sleep-Scores)
+* [Time Asleep](/Sleep-Reports/Time-Asleep)
+* [Sleep Stages](/Sleep-Reports/Sleep-Stages)
+* [Sleep Brainwave Changes](/Sleep-Reports/Sleep-Brainwave-Changes)
+* [Sleep Heart Rate](/Sleep-Reports/Sleep-Heart-Rate)
+* [Sleep HRV](/Sleep-Reports/Sleep-HRV)
+* [Sleep Positions](/Sleep-Reports/Sleep_Positions)
+* [Stability Index](/Sleep-Reports/Stability-Index)
+* [Spindle Index](/Sleep-Reports/Spindle-Index)
+* [Body Temperature](/Sleep-Reports/Body-Temperature)
+* [Sleep Respiratory Rate](/Sleep-Reports/Sleep-Respiratory-Rate)
+* [Realtime Sleep Biodata](/Sleep-Reports/Realtime-Sleep-Biodata)

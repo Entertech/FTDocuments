@@ -1,11 +1,11 @@
 ---
-slug: /App-Instructions/How-to-record-a-session-with-other-meditation-apps
+slug: /App-Instructions/How-to-record-a-meditation-session-with-other-apps
 sidebar_label: Record with other meditation apps
 sidebar_position: 3
 hide_title: true
 ---
 
-## How to record a session with other meditation apps?
+## How to record a meditation session with other apps?
 
 Flowtime can work simultaneously with other meditation apps. Feel free to use Flowtime to record biodata while meditating with the guide/sound of other meditation apps.  
 

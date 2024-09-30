@@ -1,6 +1,6 @@
 ---
 slug: /App-Instructions/How-to-make-meditation-a-daily-habit
-sidebar_label: Make meditation a daily habit
+sidebar_label: Make Meditation A Daily Habit
 sidebar_position: 2
 hide_title: true
 ---
