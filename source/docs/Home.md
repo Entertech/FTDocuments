@@ -71,7 +71,7 @@ If you have any questions about Flowtime, please look them up here. If your prob
 ### App Instructions
 * [Where to download Flowtime App?](/App-Instructions/Where-to-download-Flowtime-App)
 * [How to make meditation a daily habit?](/App-Instructions/How-to-make-meditation-a-daily-habit)
-* [How to record a session with other meditation apps?](/App-Instructions/How-to-record-a-session-with-other-meditation-apps)
+* [How to record a session with other meditation apps?](/App-Instructions/How-to-record-a-meditation-session-with-other-apps)
 * [How to set biofeedback?](App-Instructions/how-to-set-biofeedback)
 * [A quick guide to using the report exported.](App-Instructions/A-quick-guide-to-using-the-report-exported)
 * [Monthly report](/App-Instructions/Monthly-report)
