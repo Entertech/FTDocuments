@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Spindle-Index
+slug: /Sleep-Reports/Spindle-Index
 sidebar_label: Spindle Index
 sidebar_position: 9
 hide_title: true
