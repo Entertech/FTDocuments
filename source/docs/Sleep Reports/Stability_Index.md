@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Stability-Index
+slug: /Sleep-Reports/Stability-Index
 sidebar_label: Stability Index
 sidebar_position: 8
 hide_title: true
