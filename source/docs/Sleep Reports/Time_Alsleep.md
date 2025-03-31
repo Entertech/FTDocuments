@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Time-Asleep
+slug: /Sleep-Reports/Time-Asleep
 sidebar_label: Time Asleep
 sidebar_position: 2
 hide_title: true
