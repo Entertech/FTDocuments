@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Body-Temperature
+slug: /Sleep-Reports/Body-Temperature
 sidebar_label: Body Temperature
 sidebar_position: 10
 hide_title: true
