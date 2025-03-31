@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Reports/Directory-Sleep-Reports
+slug: /Sleep-Report/Directory-Sleep-Report
 sidebar_label: Directory-Sleep-Reports
 sidebar_position: 0
 hide_title: true
