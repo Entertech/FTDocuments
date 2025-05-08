@@ -86,15 +86,15 @@ If you have any questions about Flowtime, please look them up here. If your prob
 
 
 ### Know more about sleep reports
-* [Sleep Scores](/Sleep-Reports/Sleep-Scores)
+* [Sleep Scores](/Sleep-Report/Sleep-Scores)
 * [Time Asleep](/Sleep-Reports/Time-Asleep)
-* [Sleep Stages](/Sleep-Reports/Sleep-Stages)
-* [Sleep Brainwave Changes](/Sleep-Reports/Sleep-Brainwave-Changes)
-* [Sleep Heart Rate](/Sleep-Reports/Sleep-Heart-Rate)
-* [Sleep HRV](/Sleep-Reports/Sleep-HRV)
-* [Sleep Positions](/Sleep-Reports/Sleep_Positions)
+* [Sleep Stages](/Sleep-Report/Sleep-Stages)
+* [Sleep Brainwave Changes](/Sleep-Report/Sleep-Brainwave-Changes)
+* [Sleep Heart Rate](/Sleep-Report/Sleep-Heart-Rate)
+* [Sleep HRV](/Sleep-Report/Sleep-HRV)
+* [Sleep Positions](/Sleep-Report/Sleep_Positions)
 * [Stability Index](/Sleep-Reports/Stability-Index)
 * [Spindle Index](/Sleep-Reports/Spindle-Index)
 * [Body Temperature](/Sleep-Reports/Body-Temperature)
-* [Sleep Respiratory Rate](/Sleep-Reports/Sleep-Respiratory-Rate)
-* [Realtime Sleep Biodata](/Sleep-Reports/Realtime-Sleep-Biodata)
+* [Sleep Respiratory Rate](/Sleep-Report/Sleep-Respiratory-Rate)
+* [Realtime Sleep Biodata](/Sleep-Report/Realtime-Sleep-Biodata)
