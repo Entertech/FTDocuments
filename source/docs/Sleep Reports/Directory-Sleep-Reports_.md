@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 ## Directory
-* [Sleep Score](/Sleep-Report/Sleep-Score)
+* [Sleep Score](/Sleep-Report/Sleep-Scores)
 * [Time Asleep](/Sleep-Report/Time-Asleep)
 * [Sleep Stages](/Sleep-Report/Sleep-Stages)
 * [Sleep Brainwave Changes](/Sleep-Report/Sleep-Brainwave-Changes)
